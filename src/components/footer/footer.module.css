@@ -1,0 +1,23 @@
+.footer {
+  background-color: #2a3037;
+  height: 96px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10vw;
+}
+
+.footer > img {
+  width: 85px;
+  height: 16px;
+}
+
+.footer div {
+  display: flex;
+  gap: 16px;
+}
+
+.footer div img {
+  width: 16px;
+  height: 16px;
+}
